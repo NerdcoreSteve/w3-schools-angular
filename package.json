@@ -1,0 +1,24 @@
+{
+  "name": "w3-schools-angular",
+  "version": "1.0.0",
+  "description": "A repo for following the W3 Schools Angular tutorial.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdcoreSteve/w3-schools-angular.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NerdcoreSteve/w3-schools-angular/issues"
+  },
+  "homepage": "https://github.com/NerdcoreSteve/w3-schools-angular#readme"
+}
